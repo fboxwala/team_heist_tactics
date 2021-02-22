@@ -405,10 +405,10 @@
     exec-sh "^0.3.2"
     minimist "^1.2.0"
 
-"@giantmachines/redux-websocket@^1.2.1":
-  version "1.2.1"
-  resolved "https://registry.yarnpkg.com/@giantmachines/redux-websocket/-/redux-websocket-1.2.1.tgz#190f42daef331f5f1a53ac90c275a7b64e91a1af"
-  integrity sha512-GfRE7RXk+J6F8IkwoaLpQnukTproIE816rjQJ41MznoXAIKwrGpz3pTp3rvWpDzJ8+7zQU4QhxNqSraVbNTdnA==
+"@giantmachines/redux-websocket@^1.5.0":
+  version "1.5.0"
+  resolved "https://registry.yarnpkg.com/@giantmachines/redux-websocket/-/redux-websocket-1.5.0.tgz#eb75e75452e161e8c8ddc09b5ac3c47581beb6e1"
+  integrity sha512-Cc4aHuGQVzdKp9ILjat+rpBEa3AKyAHKp8lbm/ccCLoRaPOk0pgxqGjLTuXCp/GiYrnLulgOLH4+UaqsMVCi5Q==
   dependencies:
     redux "~4"
 
